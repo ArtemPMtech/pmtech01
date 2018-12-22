@@ -2,7 +2,6 @@
 - [x] Task 1
 - [ ] Task 2
 
-Задание 1. To create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
 
 Задание 2. Для разработки проекта необходим сервер со следующими параметрами:
 4 ядра
